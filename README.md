@@ -1,4 +1,4 @@
-## Patrick Belfort Marques, Desenvolvedor Front end 👋.
+## Patrick Belfort Marques, Desenvolvedor Front end 
 
 :earth_americas: Brasileiro, 24 anos. <br/>
 💻 Entusiata de Desenvolvimento web e amante do mundo underground. <br/>
