@@ -1,16 +1,20 @@
-### Hi there 👋
+# Patrick Belfort Marques, Desenvolvedor Front-end. 😄
 
-<!--
-**Marquesjob/Marquesjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entusiata de Desenvolvimento web e amante do mundo underground.
 
-Here are some ideas to get you started:
+Tenho 24 anos, nasci na zona norte do Rio de Janeiro e minhas Tecnologias favoritas são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript.
+- Typescript.
+- Vue.
+- Node.
+
+Tenho noções de:
+
+- Backend.
+- PHP.
+- HTTP.
+- MySQL.
+- MySQL WorkBench.
+- Modelagem de banco de dados.
+- Comandos SQL.
