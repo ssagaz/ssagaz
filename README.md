@@ -10,5 +10,5 @@ Todo projeto está vinculado ao Github através de Deploys automáticos e o cód
 
 ## Redes Sociais
 
-📷 [Instagram](https://www.instagram.com/sagazvlr/)
+📷 [Instagram](https://www.instagram.com/sagazvlr/)<br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-belfort-91253b200/)
