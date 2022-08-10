@@ -1,5 +1,5 @@
 # 😄 Patrick Belfort Marques, Desenvolvedor Front-end.
-### Entusiata de Desenvolvimento web e amante do mundo underground. <br/>
+###  👨‍💻 Entusiata de Desenvolvimento web e amante do mundo underground. <br/>
 
 ## [Portfólio](https://patrick-b-marques.web.app/)
 
