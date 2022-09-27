@@ -10,5 +10,5 @@ Alguns projetos estão vinculados ao Github através de Deploys automáticos e o
 
 ## Redes Sociais
 
-📷 [Instagram](https://www.instagram.com/sagazvlr/)<br/>
+📷 [Instagram](https://www.instagram.com)<br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-belfort-91253b200/)
