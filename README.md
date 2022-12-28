@@ -5,7 +5,7 @@
 
 ## Portfólio - [Link](https://patrick-b-marques.web.app/)
 
-Os projetos contidos no portfólio estão hospedados no <strong>firebase.</strong> Prontos para avaliação.<br/>
+Os projetos contidos no portfólio estão hospedados no <strong>Firebase.</strong> Prontos para avaliação.<br/>
 Alguns projetos estão vinculados ao Github através de Deploys automáticos e o código em produção está apontado para as branchs pricipais de cada repositório.
 
 ## Redes Sociais
