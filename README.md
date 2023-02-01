@@ -1,7 +1,8 @@
 ## Patrick B. Marques, Desenvolvedor Front end 
 
 :earth_americas: Brasileiro, 24 anos. <br/>
-💻 Entusiata do Desenvolvimento web e amante do mundo underground. <br/> 
+💻 Entusiata do Desenvolvimento web e amante do mundo underground. <br/>
+📍 Atuando na FengBrasil como Desenvolvedor Front-end Jr.
 
 ## Portfólio - [Link](https://patrick-b-marques.web.app/)
 
