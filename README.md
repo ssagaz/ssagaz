@@ -2,7 +2,7 @@
 
 :earth_americas: Brasileiro, 24 anos. <br/>
 💻 Entusiata de Tecnlogia e amante do mundo underground. <br/>
-📍 Atuando na FengBrasil como Desenvolvedor Front-end Jr.
+📍 Atuando na FengBrasil como Desenvolvedor Front-end.
 
 ## Portfólio - [Link](https://patrick-b-marques.web.app/)
 
