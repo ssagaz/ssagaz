@@ -26,7 +26,7 @@
     .ccc'     'ccc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
    ..ccc'     'ccc;..      GPU : NVIDIA GeForce GTX 1660 Ti 
    ..ccc'     'cc;..       Memory  : 16 GiB
-   ."'             '".   └───────────────────────────────┘  
+   ."'            '".    └───────────────────────────────┘  
 ```
 
 <h3 align="start">
