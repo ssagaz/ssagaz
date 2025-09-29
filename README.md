@@ -17,8 +17,7 @@
       - WM : Hyprland
       - CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
       - GPU : NVIDIA GeForce GTX 1660 Ti
-      - GPU Driver : nvidia (proprietary) 580.82.09
-      - Memory  : 4.98 GiB / 15.48 GiB (32%)
+      - Memory  : 16 GiB
       - OS Age  : 1 year
     └──────────────────────────────────────────┘
 
