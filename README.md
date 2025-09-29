@@ -1,10 +1,7 @@
-## Patrick Marques, Software Engineer.
-
 💻 Entusiata de Tecnlogia e amante do mundo underground. <br/>
 📍 Atuando na FengBrasil. <br/>
 📖 [Portfólio](https://patrick-b-marques.web.app/)
  
-
 ## Meu Setup
     ┌──────────────────────────────────────────┐
       - Chassis : Desktop  
