@@ -2,7 +2,9 @@
         <samp>&gt; Olá, 🤙
         </samp>
 </h3>
+
 ###
+
 💻 Sou entusiata de Tecnologia e amante do mundo underground. <br/>
 📍 Atuo como desenvolvedor web na [FengBrasil](https://fengbrasil.com.br/). <br/>
 📖 Meu [Portfólio](https://patrick-b-marques.web.app/)
