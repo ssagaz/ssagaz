@@ -11,23 +11,23 @@
         <samp>&gt; Meu Setup
         </samp>
 </h3>
-```
 
+```
            .              
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Arch Linux
         .lllll.          ​ Kernel : 6.12.49-1-lts
-       ..;'olll.         ​ WM : Hyprland 
+        .;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : zsh
-      .dolllcccl.         Terminal : kitty 0.42.2   
-     .lcc'   'ccc.       ​ Uptime : 23 years
-    .ccc'     'cc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
-    .ccc'     'cc:.       GPU : NVIDIA GeForce GTX 1660 Ti 
-   .cccc'     'c:;..      Memory  : 16 GiB
+      .dolllcccl..         Terminal : kitty 0.42.2   
+     .lccc'   'cc.       ​ Uptime : 23 years
+    .ccc'     'ccc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
+    .ccc'     'ccc:.       GPU : NVIDIA GeForce GTX 1660 Ti 
+   ..ccc'     'cc;..      Memory  : 16 GiB
    ."'             '".    OS Age  : 2 years
-                        └───────────────────────────────┘     
- 
+                        └───────────────────────────────┘  
 ```
+
 <h3 align="start">
         <samp>&gt; Redes Sociais
         </samp>
