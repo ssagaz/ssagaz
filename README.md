@@ -22,7 +22,7 @@
         .;'olll.         ​  WM : Hyprland 
       .dolllcccl.        ​  Shell : zsh
       .dolllcccl..         Terminal : kitty 
-     .lccc'   'cc.       ​  OS Age  : 2 years
+     .lcc'   'ccc.       ​  OS Age  : 2 years
     .ccc'     'ccc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
    ..ccc'     'ccc;..      GPU : NVIDIA GeForce GTX 1660 Ti 
    ..ccc'     'cc;..       Memory  : 16 GiB
