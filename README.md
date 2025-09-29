@@ -24,7 +24,7 @@
       .dolllcccl..         Terminal : kitty 
      .lccc'   'cc.       ​  OS Age  : 2 years
     .ccc'     'ccc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
-   ..ccc'     'cc;..       GPU : NVIDIA GeForce GTX 1660 Ti 
+   ..ccc'     'ccc;..      GPU : NVIDIA GeForce GTX 1660 Ti 
    ..ccc'     'cc;..       Memory  : 16 GiB
    ."'             '".   └───────────────────────────────┘  
 ```
