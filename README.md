@@ -1,7 +1,7 @@
-<h3 align="start">
-        <samp>&gt; Olá, 🤙
+<h2 align="left">
+        <samp>&gt; Olá, 👋🤙
         </samp>
-</h3>
+</h2>
 
 ###
 
