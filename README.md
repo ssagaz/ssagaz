@@ -3,11 +3,14 @@
         </samp>
 </h3>
 
-💻 Entusiata de Tecnlogia e amante do mundo underground. <br/>
-📍 Atuando na FengBrasil. <br/>
+💻 Sou entusiata de Tecnlogia e amante do mundo underground. <br/>
+📍 Atuo como desenvolvedor na FengBrasil. <br/>
 📖 [Portfólio](https://patrick-b-marques.web.app/)
  
-## Meu Setup
+<h3 align="start">
+        <samp>&gt; Meu Setup
+        </samp>
+</h3>
     ┌──────────────────────────────────────────┐
       - Chassis : Desktop  
       - OS : Arch Linux
@@ -20,7 +23,11 @@
       - Memory  : 16 GiB
       - OS Age  : 2 years
     └──────────────────────────────────────────┘
-## Redes Sociais
+
+<h3 align="start">
+        <samp>&gt; Redes Sociais
+        </samp>
+</h3>
 
 📷 [Instagram](https://www.instagram.com/patrickmarques__)<br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-belfort-91253b200/)
