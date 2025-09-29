@@ -11,6 +11,7 @@
         <samp>&gt; Meu Setup
         </samp>
 </h3>
+   
     ┌──────────────────────────────────────────┐
       - Chassis : Desktop  
       - OS : Arch Linux
