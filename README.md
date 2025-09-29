@@ -19,13 +19,12 @@
         .lllll.          ​  Kernel : 6.12.49-1-lts
         .;'olll.         ​  WM : Hyprland 
       .dolllcccl.        ​  Shell : zsh
-      .dolllcccl..         Terminal : kitty 0.42.2   
-     .lccc'   'cc.       ​  Uptime : 23 years
+      .dolllcccl..         Terminal : kitty 
+     .lccc'   'cc.       ​  OS Age  : 2 years
     .ccc'     'ccc:.      ​ CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
-    .ccc'     'ccc:.       GPU : NVIDIA GeForce GTX 1660 Ti 
+   ..ccc'     'cc;..       GPU : NVIDIA GeForce GTX 1660 Ti 
    ..ccc'     'cc;..       Memory  : 16 GiB
-   ."'             '".     OS Age  : 2 years
-                         └───────────────────────────────┘  
+   ."'             '".   └───────────────────────────────┘  
 ```
 
 <h3 align="start">
