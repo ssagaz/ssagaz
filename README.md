@@ -11,7 +11,7 @@
         <samp>&gt; Meu Setup
         </samp>
 </h3>
-   
+
     ┌──────────────────────────────────────────┐
       - Chassis : Desktop  
       - OS : Arch Linux
@@ -24,7 +24,6 @@
       - Memory  : 16 GiB
       - OS Age  : 2 years
     └──────────────────────────────────────────┘
-
 <h3 align="start">
         <samp>&gt; Redes Sociais
         </samp>
