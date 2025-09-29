@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="start">
         <samp>&gt; Olá, 🤙
         </samp>
 </h3>
