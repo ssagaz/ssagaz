@@ -18,7 +18,7 @@
       - CPU : Intel(R) Core(TM) i7-10700 @ 4.80 GHz
       - GPU : NVIDIA GeForce GTX 1660 Ti
       - Memory  : 16 GiB
-      - OS Age  : 1 year
+      - OS Age  : 2 years
     └──────────────────────────────────────────┘
 
 ## Redes Sociais
