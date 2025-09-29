@@ -1,6 +1,5 @@
 ## Patrick Marques, Software Engineer.
 
-:earth_americas: Brasileiro, 25 anos. <br/>
 💻 Entusiata de Tecnlogia e amante do mundo underground. <br/>
 📍 Atuando na FengBrasil. <br/>
 📖 [Portfólio](https://patrick-b-marques.web.app/)
