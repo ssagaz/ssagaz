@@ -6,7 +6,7 @@
 ###
 
 💻 Sou entusiata de Tecnologia e amante do mundo underground. <br/>
-📍 Atuo como desenvolvedor web na [FengBrasil](https://fengbrasil.com.br/). <br/>
+📍 Atuo como desenvolvedor web na [FengBrasil]([https://fengbrasil.com.br/](https://www.linkedin.com/company/feng-brasil/posts/?feedView=all)). <br/>
 📖 Meu [Portfólio](https://patrick-b-marques.web.app/)
  
 <h3 align="start">
